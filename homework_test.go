@@ -3,7 +3,7 @@ package homework02
 import (
 	"math"
 	"strings"
-	"sync"
+	_ "sync"
 	"sync/atomic"
 	"testing"
 	"time"
